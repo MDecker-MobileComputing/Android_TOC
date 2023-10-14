@@ -2,6 +2,10 @@
 
 <br>
 
+Repository with *Android Studio* projects for native Apps mit Java.
+
+<br>
+
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
 | ...  | ...      | ...         |
