@@ -2,7 +2,7 @@
 
 <br>
 
-Repository with *Android Studio* projects for native Apps mit Java.
+Repository with *Android Studio* projects for native Apps with Java.
 
 <br>
 
