@@ -8,6 +8,7 @@ Repository with *Android Studio* projects for native Apps with Java.
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
+| `ActivityLifecycleDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_ActivityLifecycleDemo) | App to demonstrate lifecycle methods of an activity |
 | `DatumsDifferenz` | [Link](https://github.com/MDecker-MobileComputing/Android_DatumsDifferenz) | App with [DatePicker](https://developer.android.com/reference/android/widget/DatePicker) element, event handling to be added as exercise |
 | `EigenerImpliziterIntent` | [Link](https://github.com/MDecker-MobileComputing/Android_EigenerImpliziterIntent) | Repository contains two apps: one for sending a custom intent, and the other one for receiving it |
 | `GlossarListView` | [Link](https://github.com/MDecker-MobileComputing/Android_GlossarListView) | App showing how to use a [ListView](https://developer.android.com/reference/android/widget/ListView) | 
