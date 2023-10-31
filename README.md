@@ -16,7 +16,8 @@ Repository with *Android Studio* projects for native Apps with Java.
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Android_HalloName) | App demonstrating dialogs and toasts |
 | `Handzaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Handzaehler) | Simple [Tally Counter](https://en.wikipedia.org/wiki/Tally_counter) as example for event handler for buttons |
 | `ImpliziteIntents` | [Link](https://github.com/MDecker-MobileComputing/Android_ImpliziteIntents) | App demonstrating how to dispatch several implicit intents to start other apps |
-| `LinearLayoutDemos`| [Link](https://github.com/MDecker-MobileComputing/Android_LinearLayoutDemos) | App demonstrating selected aspects of the [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout) |
+| `LinearLayoutDemos` | [Link](https://github.com/MDecker-MobileComputing/Android_LinearLayoutDemos) | App demonstrating selected aspects of the [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout) |
+| `Verkehrszaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Verkehrszaehler) | Simple traffic counter app to demonstrate usage of SQLite in Android |
 | `WeitereUiElemente` | [Link](https://github.com/MDecker-MobileComputing/Android_WeitereUiElemente) | Demo for several of Android's UI elements |
 | `Wuerfel_Fehlersuche`| [Link](https://github.com/MDecker-MobileComputing/Android_Wuerfel_Fehlersuche) | App simulating a simple dice, but to run it the error has to be fixed | 
 | `ZweiActivites` | [Link](https://github.com/MDecker-MobileComputing/Android_ZweiActivities) | Interaction between two activities with explicit intents |
