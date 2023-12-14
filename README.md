@@ -19,7 +19,7 @@ Repository with *Android Studio* projects for native Apps with Java.
 | `ImpliziteIntents` | [Link](https://github.com/MDecker-MobileComputing/Android_ImpliziteIntents) | App demonstrating how to dispatch several implicit intents to start other apps |
 | `LinearLayoutDemos` | [Link](https://github.com/MDecker-MobileComputing/Android_LinearLayoutDemos) | App demonstrating selected aspects of the [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout) |
 | `Verkehrszaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Verkehrszaehler) | Simple traffic counter app to demonstrate usage of SQLite in Android |
-| `WebViewDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_WebViewDemo) | Displaying external web pages in [WebView](https://developer.android.com/reference/android/webkit/WebView) element | 
+| `WebViewDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_WebViewDemo) | Displaying external web pages in [WebView](https://developer.android.com/reference/android/webkit/WebView) element; [GitHub Actions Workflow](https://github.com/MDecker-MobileComputing/Android_WebViewDemo/blob/master/.github/workflows/gradle.yml) | 
 | `WeitereUiElemente` | [Link](https://github.com/MDecker-MobileComputing/Android_WeitereUiElemente) | Demo for several of Android's UI elements |
 | `Wuerfel_Fehlersuche`| [Link](https://github.com/MDecker-MobileComputing/Android_Wuerfel_Fehlersuche) | App simulating a simple dice, but to run it the error has to be fixed | 
 | `ZweiActivites` | [Link](https://github.com/MDecker-MobileComputing/Android_ZweiActivities) | Interaction between two activities with explicit intents |
